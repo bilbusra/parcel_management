@@ -1,0 +1,8 @@
+Used Python 3.9, but I think any 3.x is ok
+Used Itertools, ElementTree and Unittest --> Normally all of them are built-in
+
+python main.py Container_68465468.xml
+(Takes the filename as argument)
+
+I also calculated how many parcels passed through a department, because in
+future they can add or remove the departments --usually depending on the usefulness
